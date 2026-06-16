@@ -216,10 +216,10 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 <br/><br/>
 
 ---
-## Produções Científicas
+## Produção Bibliográfica
 
 <details>
-<summary><b>📒 Artigos Publicados</b></summary>
+<summary><b>📒 Artigos Completos Publicados em Periódicos</b></summary>
 <br>
 
 > **Rotura Uterina em Obstetrícia: Fatores de Risco, Complicações e a Necessidade de Histerectomia Total como Intervenção Decisiva**<br/>
