@@ -226,67 +226,56 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1822/1125) 
 [![Publicado](https://img.shields.io/badge/Publicado-12--05--2026-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2026v19n2.1822)
-[https://doi.org/10.24859/SaberDigital.2026v19n2.1822](https://doi.org/10.24859/SaberDigital.2026v19n2.1822)
 
 > **Complicações das infecções do trato urinário em gestantes: uma revisão**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1813/1117) 
 [![Publicado](https://img.shields.io/badge/Publicado-24--02--2026-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2026v19n1.1813)
-[https://doi.org/10.24859/SaberDigital.2026v19n1.1813](https://doi.org/10.24859/SaberDigital.2026v19n1.1813)
 
 > **Microbioma intestinal e saúde sistêmica: interações, impactos e perspectivas terapêuticas**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1814/1118) 
 [![Publicado](https://img.shields.io/badge/Publicado-24--02--2026-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2026v19n1.1814)
-[https://doi.org/10.24859/SaberDigital.2026v19n1.1814](https://doi.org/10.24859/SaberDigital.2026v19n1.1814)
 
 > **Análise de séries temporais e distribuição espacial dos casos e indicadores epidemiológicos e operacionais da sífilis em gestantes no Maranhão, período 2009-2023**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1791/1127) 
 [![Publicado](https://img.shields.io/badge/Publicado-23--10--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n3.1791)
-[https://doi.org/10.24859/SaberDigital.2025v18n3.1791](https://doi.org/10.24859/SaberDigital.2025v18n3.1791)
 
 > **Avaliação da Proteção e Redução de Complicações por SARS-CoV-2 em Crianças Imunizadas com a Vacina Bacilo de Calmette-Guérin**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1766/1080) 
 [![Publicado](https://img.shields.io/badge/Publicado-17--10--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n3.1766)
-[https://doi.org/10.24859/SaberDigital.2025v18n3.1766](https://doi.org/10.24859/SaberDigital.2025v18n3.1766)
 
 > **Saúde Ginecológica na Transição Menopausal: Estratégias de Cuidado Integrativo e Qualidade de Vida**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1774/1071) 
 [![Publicado](https://img.shields.io/badge/Publicado-03--09--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n3.1774)
-[https://doi.org/10.24859/SaberDigital.2025v18n3.1774](https://doi.org/10.24859/SaberDigital.2025v18n3.1774)
 
 > **A Importância da prevenção e detecção precoce da pré-eclâmpsia na gestação: Revisão sistemática**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1775/1072) 
 [![Publicado](https://img.shields.io/badge/Publicado-03--09--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n3.1775)
-[https://doi.org/10.24859/SaberDigital.2025v18n3.1775](https://doi.org/10.24859/SaberDigital.2025v18n3.1775)
 
 > **Intervenções de enfermagem no pré-natal de alto risco: revisão integrativa**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1745/1055) 
 [![Publicado](https://img.shields.io/badge/Publicado-30--06--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n2.1745)
-[https://doi.org/10.24859/SaberDigital.2025v18n2.1745](https://doi.org/10.24859/SaberDigital.2025v18n2.1745)
 
 > **Suplementação de cálcio para gestantes no pré-natal: uma revisão bibliográfica sobre benefícios, indicações e impactos materno-fetais**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://ojs.editoracognitus.com.br/index.php/revista/article/view/91/106) 
 [![Publicado](https://img.shields.io/badge/Publicado-11--06--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.71248/mmrpjy40)
-[https://doi.org/10.71248/mmrpjy40](https://doi.org/10.71248/mmrpjy40)
 
 > **Impacto da vacina Bacilo de Calmette - Guérin na redução de complicações por SARS-CoV-2 em crianças: uma revisão de literatura**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1618/1042) 
 [![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n2.1618)
-[https://doi.org/10.24859/SaberDigital.2025v18n2.1618](https://doi.org/10.24859/SaberDigital.2025v18n2.1618)
 
 > **Inter-relação entre Síndrome dos Ovários Policísticos e Diabetes Mellitus: Implicações para a Saúde Reprodutiva e Metabólica**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1706/1043) 
 [![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n2.1706)
-[https://doi.org/10.24859/SaberDigital.2025v18n2.1706](https://doi.org/10.24859/SaberDigital.2025v18n2.1706)
 
 </details>
 
@@ -298,31 +287,26 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-28--11--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.29327/5733351)
-[http://dx.doi.org/10.29327/5733351](http://dx.doi.org/10.29327/5733351)
 
 > **Livro - Alerta Vermelho: Experiências na Urgência e Emergência - 2º Edição**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-05--08--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.29327/5628100)
-[http://dx.doi.org/10.29327/5628100](http://dx.doi.org/10.29327/5628100)
 
 > **Livro Abordagens Inovadoras na Pesquisa em Ciências da Saúde - 2º Edição**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-11--08--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.29327/5634528)
-[http://dx.doi.org/10.29327/5634528](http://dx.doi.org/10.29327/5634528)
 
 > **Livro - Saúde da Mulher: Prevenção e Tratamento ao Longo da Vida**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-03--06--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.29327/5566177)
-[http://dx.doi.org/10.29327/5566177](http://dx.doi.org/10.29327/5566177)
 
 > **Livro E-book Science of Health - Volume 5º**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-05--05--2024-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.29327/5475125)
-[http://dx.doi.org/10.29327/5475125](http://dx.doi.org/10.29327/5475125)
 
 </details>
 
@@ -334,25 +318,21 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-27--08--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.5281/zenodo.16950959)
-[http://dx.doi.org/10.5281/zenodo.16950959](http://dx.doi.org/10.5281/zenodo.16950959)
 
 > **Descolamento Prematuro da Placenta: Etiologia, Diagnóstico, Manejo e Impactos Materno-Fetais**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-27--08--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.5281/zenodo.16950922)
-[http://dx.doi.org/10.5281/zenodo.16950922](http://dx.doi.org/10.5281/zenodo.16950922)
 
 > **Hipertensão na Gestação: Fatores de Risco, Complicações e Estratégias de Manejo para Reduzir a Morbimortalidade Materno e Fetal**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-22--04--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.47094/978-65-6036-888-0/245-254)
-[http://dx.doi.org/10.47094/978-65-6036-888-0/245-254](http://dx.doi.org/10.47094/978-65-6036-888-0/245-254)
 
 > **Complicações das Infecções do Trato Urinário em Gestantes: Uma Revisão**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](#) 
 [![Publicado](https://img.shields.io/badge/Publicado-26--02--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](http://dx.doi.org/10.5281/zenodo.14918811)
-[http://dx.doi.org/10.5281/zenodo.14918811](http://dx.doi.org/10.5281/zenodo.14918811)
 
 </details>
 
