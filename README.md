@@ -3,7 +3,7 @@
 **`Profissional da Saúde`**
 
 <div align="justify">
-Bacharel em Enfermagem, Especialista em Docência do Ensino Superior, Obstetrícia e Neonatologia. Atuação em Clínicas e Hospital, nos setores de triagem, pré-parto, alojamento conjunto, bloco cirúrgico e sala de parto normal. Na Atenção Básica, Coordenador de Vigilância Epidemiológica e Sanitária Municipal, Imunização e Núcleo de Educação em Saúde. Na Estratégia Saúde da Família desenvolveu atividades voltadas para a prevenção e promoção da saúde. Atualmente cursando Medicina.
+Bacharel em Enfermagem, Especialista em Docência do Ensino Superior, Obstetrícia e Neonatologia. Atuação em Clínicas e Hospital, nos setores de triagem, pré-parto, alojamento conjunto, bloco cirúrgico e sala de parto. Na Atenção Básica, Coordenador de Vigilância Epidemiológica e Sanitária Municipal, Imunização e Núcleo de Educação em Saúde. Na Estratégia Saúde da Família desenvolveu atividades voltadas para a prevenção e promoção da saúde. Atualmente cursando Medicina.
 <br/>
 Orcid iD: <a href="https://orcid.org/0009-0008-3894-2526">https://orcid.org/0009-0008-3894-2526</a>
 <br/>
@@ -13,35 +13,28 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 <br/>
 <p align="left">
     <a href="https://www.youtube.com/@Gustavo_Iltemberg?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN2ZLQbxAV55k7e5ykVolvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+    <img 
+        alt="youtube subscribers" 
+        title="Inscreva-se no meu canal" 
+        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN2ZLQbxAV55k7e5ykVolvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <a href="https://www.youtube.com/@Gustavo_Iltemberg">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCN2ZLQbxAV55k7e5ykVolvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+    <img 
+        alt="youtube views" 
+        title="Vizualizações no YouTube" 
+        src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCN2ZLQbxAV55k7e5ykVolvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
     <a href="https://github.com/gustavoiltemberg?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gustavoiltemberg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/gustavoiltemberg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
     </a>
-    <a href="https://github.com/gustavoiltemberg?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavoiltemberg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+<a href="https://github.com/gustavoiltemberg?tab=followers">
+    <img alt="Seguidores" 
+         src="https://custom-icon-badges.demolab.com/github/followers/gustavoiltemberg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
-
 
 
 <a href="https://www.facebook.com/profile.php?id=61582845433883" target="_blank">
@@ -220,11 +213,15 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
   />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
-### 📄Artigos Publicados
+## Produções Científicas
+
+<details>
+<summary><b>📒 Artigos Publicados</b></summary>
+<br>
+
 > Rotura Uterina em Obstetrícia: Fatores de Risco, Complicações e a Necessidade de Histerectomia Total como Intervenção Decisiva<br/>
 DOI: [https://doi.org/10.24859/SaberDigital.2026v19n2.1822](https://doi.org/10.24859/SaberDigital.2026v19n2.1822) [Publicado em: 12-05-2026]
 
@@ -258,8 +255,12 @@ DOI: [https://doi.org/10.24859/SaberDigital.2025v18n2.1618](https://doi.org/10.2
 > Inter-relação entre Síndrome dos Ovários Policísticos e Diabetes Mellitus: Implicações para a Saúde Reprodutiva e Metabólica<br/>
 DOI: [https://doi.org/10.24859/SaberDigital.2025v18n2.1706](https://doi.org/10.24859/SaberDigital.2025v18n2.1706) [Publicado em: 20-05-2025]
 
----
-### 📒Livros Publicados / Organizados
+</details>
+
+<details>
+<summary><b>📚 Livros Publicados / Organizados ou Edições</b></summary>
+<br>
+
 > Livro Promovendo a Saúde Através da Ciência Multidisciplinar<br/>
 DOI: [http://dx.doi.org/10.29327/5733351](http://dx.doi.org/10.29327/5733351) [Publicado em: 28-11-2025]
 
@@ -275,23 +276,52 @@ DOI: [http://dx.doi.org/10.29327/5566177](http://dx.doi.org/10.29327/5566177) [P
 > Livro E-book Science of Health - Volume 5º<br/>
 DOI: [http://dx.doi.org/10.29327/5475125](http://dx.doi.org/10.29327/5475125) [Publicado em: 05-05-2024]
 
+</details>
+
+<details>
+<summary><b>📄 Capítulos de Livros Publicados</b></summary>
+<br>
+
+> Rotura Uterina em Obstetrícia: Fatores de Risco, Complicações e a Necessidade de Histerectomia Total como Intervenção Salvadora<br/>
+DOI: [http://dx.doi.org/10.29327/5628100](http://dx.doi.org/10.5281/zenodo.16950959) [Publicado em: 27-08-2025]
+
+> Descolamento Prematuro da Placenta: Etiologia, Diagnóstico, Manejo e Impactos Materno-Fetais<br/>
+DOI: [http://dx.doi.org/10.29327/5628100](http://dx.doi.org/10.5281/zenodo.16950922) [Publicado em: 27-08-2025]
+
+> Hipertensão na Gestação: Fatores de Risco, Complicações e Estratégias de Manejo para Reduzir a Morbimortalidade Materno e Fetal<br/>
+DOI: [http://dx.doi.org/10.29327/5628100](http://dx.doi.org/10.47094/978-65-6036-888-0/245-254) [Publicado em: 22-04-2025]
+
+> Complicações das Infecções do Trato Urinário em Gestantes: Uma Revisão<br/>
+DOI: [http://dx.doi.org/10.29327/5733351](http://dx.doi.org/10.5281/zenodo.14918811) [Publicado em: 26-02-2025]
+
+</details>
+
+<details>
+<summary><b>🛠 Documentação</b></summary>
+
+<br>
+
+- [Manual do Usuário](docs/manual-usuario.md)
+- [API Reference](docs/api-reference.md)
+- [Guia de Contribuição](CONTRIBUTING.md)
+- [Changelog](CHANGELOG.md)
+
+</details>
+
+
 ---
-
-
-### 📊 Estatísticas
+## 📊 Estatísticas
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavoiltemberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=gustavoiltemberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoiltemberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoiltemberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
