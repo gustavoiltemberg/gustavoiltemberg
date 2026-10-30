@@ -224,12 +224,12 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 
 > **Mortalidade em infecções da corrente sanguínea e por resistente aos carbapenêmicos: revisão sistemática e meta-análise de proporções**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://www.revistaft.com/ft/article/view/2179/6240) 
-[![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
+[![Publicado](https://img.shields.io/badge/Publicado-07--09--2026-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.69849/v7tfr005)
 
 > **Intersecções Patofisiológicas entre a Tríade de Virchow e o Diabetes Mellitus Tipo 2: Uma Revisão Sistemática**<br/>
 [![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1901/1149) 
-[![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
+[![Publicado](https://img.shields.io/badge/Publicado-06--08--2026-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2026v19n2.1901)
 
 > **Rotura Uterina em Obstetrícia: Fatores de Risco, Complicações e a Necessidade de Histerectomia Total como Intervenção Decisiva**<br/>
