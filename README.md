@@ -12,18 +12,6 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 
 <br/>
 <p align="left">
-    <a href="https://www.youtube.com/@Gustavo_Iltemberg?sub_confirmation=1">
-    <img 
-        alt="youtube subscribers" 
-        title="Inscreva-se no meu canal" 
-        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN2ZLQbxAV55k7e5ykVolvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a>
-    <a href="https://www.youtube.com/@Gustavo_Iltemberg">
-    <img 
-        alt="youtube views" 
-        title="Vizualizações no YouTube" 
-        src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCN2ZLQbxAV55k7e5ykVolvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-    </a> 
     <a href="https://github.com/gustavoiltemberg?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
