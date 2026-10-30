@@ -277,6 +277,16 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 [![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
 [![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n2.1706)
 
+> **Inter-relação entre Síndrome dos Ovários Policísticos e Diabetes Mellitus: Implicações para a Saúde Reprodutiva e Metabólica**<br/>
+[![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1706/1043) 
+[![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
+[![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n2.1706)
+
+> **Inter-relação entre Síndrome dos Ovários Policísticos e Diabetes Mellitus: Implicações para a Saúde Reprodutiva e Metabólica**<br/>
+[![CERTIFADO](https://img.shields.io/badge/Certificado-1E90FF?style=flat&logo=open-badges&logoColor=white)](https://revistas.faa.edu.br/SaberDigital/article/view/1706/1043) 
+[![Publicado](https://img.shields.io/badge/Publicado-20--05--2025-1E90FF?style=flat&logo=google-calendar&logoColor=white)](#)
+[![DOI](https://img.shields.io/badge/DOI-1E90FF?style=flat&logo=doi&logoColor=white)](https://doi.org/10.24859/SaberDigital.2025v18n2.1706)
+
 </details>
 
 <details>
