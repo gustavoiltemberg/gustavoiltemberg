@@ -360,18 +360,11 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
 
 
 ---
-## 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavoiltemberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+## 📊 Estatísticas do GitHub
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoiltemberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+<p align="center">
+  <img src="https://github-readme-stats-lyart-theta-45.vercel.app/api?username=gustavoiltemberg&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-stats-lyart-theta-45.vercel.app/api/top-langs/?username=gustavoiltemberg&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" />
 </p>
