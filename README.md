@@ -1,9 +1,7 @@
 # 🧑🏻‍⚕️[Gustavo Iltemberg Sousa Silva](https://scholar.google.com/citations?user=fKSgcE8AAAAJ)
 
-**`Profissional da Saúde`**
-
+**`Programmer`**
 <div align="justify">
-Bacharel em Enfermagem, Especialista em Docência do Ensino Superior, Obstetrícia e Neonatologia. Atuação em Clínicas e Hospital, nos setores de triagem, pré-parto, alojamento conjunto, bloco cirúrgico e sala de parto. Na Atenção Básica, Coordenador de Vigilância Epidemiológica e Sanitária Municipal, Imunização e Núcleo de Educação em Saúde. Na Estratégia Saúde da Família desenvolveu atividades voltadas para a prevenção e promoção da saúde. Atualmente cursando Medicina.
 <br/>
 Orcid iD: <a href="https://orcid.org/0009-0008-3894-2526">https://orcid.org/0009-0008-3894-2526</a>
 <br/>
