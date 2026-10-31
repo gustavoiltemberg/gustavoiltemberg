@@ -1,5 +1,4 @@
-# 🧑🏻‍⚕️[Gustavo Iltemberg Sousa Silva]🧑🏻‍💻(https://scholar.google.com/citations?user=fKSgcE8AAAAJ)
-
+# 🧑🏻‍💻[Gustavo Iltemberg Sousa Silva](https://scholar.google.com/citations?user=fKSgcE8AAAAJ)
 **`Programmer`**
 <div align="justify">
 <br/>
@@ -14,7 +13,7 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/gustavoiltemberg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&v=3"/>
+        src="https://custom-icon-badges.demolab.com/github/stars/gustavoiltemberg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&v=2"/>
     </a>
 <a href="https://github.com/gustavoiltemberg?tab=followers">
     <img alt="Seguidores" 
