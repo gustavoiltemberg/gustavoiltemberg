@@ -13,11 +13,11 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/gustavoiltemberg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&v=1"/>
+        src="https://custom-icon-badges.demolab.com/github/stars/gustavoiltemberg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&v=3"/>
     </a>
 <a href="https://github.com/gustavoiltemberg?tab=followers">
     <img alt="Seguidores" 
-         src="https://custom-icon-badges.demolab.com/github/followers/gustavoiltemberg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&v=1" />
+         src="https://custom-icon-badges.demolab.com/github/followers/gustavoiltemberg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&v=3" />
     </a>
 </p>
 
@@ -352,11 +352,11 @@ Lattes iD: <a href="https://lattes.cnpq.br/7463875382997033">https://lattes.cnpq
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-lyart-theta-45.vercel.app/api?username=gustavoiltemberg&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=2" />
+    src="https://github-readme-stats-lyart-theta-45.vercel.app/api?username=gustavoiltemberg&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=4" />
 
 <img 
       align="left" 
       alt="Linguagens mais usadas" 
       height="200" 
-      src="https://github-readme-stats-lyart-theta-45.vercel.app/api/top-langs/?username=gustavoiltemberg&layout=compact&langs_count=8&theme=radical&v=2" />
+      src="https://github-readme-stats-lyart-theta-45.vercel.app/api/top-langs/?username=gustavoiltemberg&layout=compact&langs_count=8&theme=radical&v=4" />
 </p>
